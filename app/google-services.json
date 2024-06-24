@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "294534403329",
+    "project_id": "pdm-trabalhofazendas-2",
+    "storage_bucket": "pdm-trabalhofazendas-2.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:294534403329:android:f668eb498cdee205a5f700",
+        "android_client_info": {
+          "package_name": "pdm.compose.pdm_trabalhofazendas_2"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMhGNHMSwE33tDWKjnkKPOuEVx1BuVQM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
